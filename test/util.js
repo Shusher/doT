@@ -1,7 +1,6 @@
 'use strict';
 
 var assert = require('assert');
-var testChange = "hello!";
 var doT = require('../doT');
 
 exports.test = function (templates, data, result) {
